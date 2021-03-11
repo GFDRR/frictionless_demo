@@ -1,0 +1,9 @@
+matplotlib==3.3.2
+numpy==1.19.2
+rasterio==1.1.0
+rasterstats==0.15.0
+geopandas==0.8.1
+pandas==1.2.0
+descartes==1.1.0
+rtree==0.9.7
+requests=2.24.0

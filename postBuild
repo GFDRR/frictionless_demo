@@ -1,0 +1,2 @@
+wget -q -O landslide.zip https://development-data-hub-s3-public.s3.amazonaws.com/ddhfiles/1191621/ls_rf_mean_1980-2018.zip
+unzip landslide.zip
