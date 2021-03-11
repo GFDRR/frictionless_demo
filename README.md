@@ -1,4 +1,8 @@
-# exposure
-This repo contains various working scripts on natural hazard exposure. The simple overlay notebook should run in Binder (click link below).
+# Scripts for GOST show-and-tell (March 11, 2021)
+This repo contains scripts on:
+* analyzing disaster event with pyEmdat
+* overlaying OSM data with the Global Landslide Hazard Map
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nj935/exposure/HEAD)
+For the exposure overlay, try running in Binder. The pyEmdat scripts require local download of EMDAT data subject to the appropriate license agreement.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gfdrr/frictionless_demo/HEAD)
